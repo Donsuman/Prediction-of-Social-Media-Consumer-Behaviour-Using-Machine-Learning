@@ -11,10 +11,7 @@ Project Report submitted for MA5770-Modelling Workshop
 - Vinod Kumar - MA23M026
 
 Under the Supervision of
-**Dr. Priyanka Shukla**
-
-Associate Professor
-
-Department of Mathematics
-
+**Dr. Priyanka Shukla**  
+Associate Professor  
+Department of Mathematics  
 IIT Madras, India
