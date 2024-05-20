@@ -10,7 +10,7 @@ Project Report submitted for MA5770-Modelling Workshop
 - Suman Das - MA23M023
 - Vinod Kumar - MA23M026
 
-Under the Supervision of
+Under the Supervision of  
 **Dr. Priyanka Shukla**  
 Associate Professor  
 Department of Mathematics  
