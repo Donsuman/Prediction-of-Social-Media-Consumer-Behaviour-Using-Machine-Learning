@@ -12,6 +12,9 @@ Project Report submitted for MA5770-Modelling Workshop
 
 Under the Supervision of
 **Dr. Priyanka Shukla**
+
 Associate Professor
+
 Department of Mathematics
+
 Indian Institute of Technology Madras, India
